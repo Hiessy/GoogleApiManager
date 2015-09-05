@@ -1,0 +1,8 @@
+C:\projects\AddressTranslation\Runner\bin\Debug\Runner.exe
+C:\projects\AddressTranslation\Runner\bin\Debug\Runner.pdb
+C:\projects\AddressTranslation\Runner\bin\Debug\GoogleApiRequest.dll
+C:\projects\AddressTranslation\Runner\bin\Debug\GoogleEntities.dll
+C:\projects\AddressTranslation\Runner\bin\Debug\GoogleApiRequest.pdb
+C:\projects\AddressTranslation\Runner\bin\Debug\GoogleEntities.pdb
+C:\projects\AddressTranslation\Runner\obj\x86\Debug\Runner.exe
+C:\projects\AddressTranslation\Runner\obj\x86\Debug\Runner.pdb
